@@ -9,3 +9,7 @@ Steps to setup JSON Server
 Get- to get the deatails of the array
 we have enter array name for full deatailsof that array(http://localhost:3000/products)
 if we need perticular array, for that after array name enter / and id number(http://localhost:3000/products/4)
+
+Filter-
+http://localhost:3000/reviews?rating=4
+after enytering the array we have type (?)then key (rating) then (=) and value to filter same reviews

@@ -3,3 +3,9 @@ fake rest API is a mock server that behaviour is like real REST API, it is typic
 Steps to setup JSON Server
 1.create package.json file(run command npm init -y in terminal) (package.json file will be created with some defaults)
 2.install json package-run command yarn add json-server 
+
+
+
+Get- to get the deatails of the array
+we have enter array name for full deatailsof that array(http://localhost:3000/products)
+if we need perticular array, for that after array name enter / and id number(http://localhost:3000/products/4)

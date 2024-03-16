@@ -1,71 +1,120 @@
 {
-    "products":[ 
-        {
-        "postId": 1,
-        "id": 1,
-        "name": "id labore ex et quam laborum",
-        "email": "Eliseo@gardner.biz",
-        "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "category": "electroics",
+      "price": "4000",
+      "description": "This is description about product 1"
     },
     {
-        "postId": 1,
-        "id": 2,
-        "name": "quo vero reiciendis velit similique earum",
-        "email": "Jayne_Kuhic@sydney.com",
-        "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+      "id": 2,
+      "title": "Product 2",
+      "category": "electroics",
+      "price": "2000",
+      "description": "This is description about product 2"
     },
     {
-        "postId": 1,
-        "id": 3,
-        "name": "odio adipisci rerum aut animi",
-        "email": "Nikita@garfield.biz",
-        "body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
+      "id": 3,
+      "title": "Product 3",
+      "category": "books",
+      "price": "1000",
+      "description": "This is description about product 3"
     },
     {
-        "postId": 1,
-        "id": 4,
-        "name": "alias odio sit",
-        "email": "Lew@alysha.tv",
-        "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+      "id": 4,
+      "title": "Product 4",
+      "category": "fitness",
+      "price": "3000",
+      "description": "This is description about product 4"
     },
     {
-        "postId": 1,
-        "id": 5,
-        "name": "vero eaque aliquid doloribus et culpa",
-        "email": "Hayden@althea.biz",
-        "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
+      "id": 5,
+      "title": "Product 5",
+      "category": "fitness",
+      "price": "4000",
+      "description": "This is description about product 5"
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "category": "gardening",
+      "price": "5000",
+      "description": "This is description about product 6"
+    },
+    {
+      "id": 7,
+      "title": "Product 7",
+      "category": "furniture",
+      "price": "6000",
+      "description": "This is description about product 7"
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "category": "furniture",
+      "price": "7000",
+      "description": "This is description about product 8"
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "category": "accessories",
+      "price": "4000",
+      "description": "This is description about product 9"
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "category": "accessories",
+      "price": "4000",
+      "description": "This is description about product 10"
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "category": "accessories",
+      "price": "4000",
+      "description": "This is description about product 11"
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "category": "furniture",
+      "price": "4000",
+      "description": "This is description about product 11"
     }
-],
-    "reviews":[
+  ],
+  "reviews": [
     {
-        "id":1,
-        "rating":3,
-        "comment":"review 1 for product id 1",
-        "productId":1
+      "id": 1,
+      "rating": 3,
+      "comment": "review 1 for product id 1",
+      "productId": 1
     },
     {
-        "id":2,
-        "rating":4,
-        "comment":"review 2 for product id 1",
-        "productId":1
+      "id": 2,
+      "rating": 4,
+      "comment": "review 2 for product id 1",
+      "productId": 1
     },
     {
-        "id":3,
-        "rating":4,
-        "comment":"review 3 for product id 1",
-        "productId":1
+      "id": 3,
+      "rating": 4,
+      "comment": "review 3 for product id 1",
+      "productId": 1
     },
     {
-        "id":4,
-        "rating":5,
-        "comment":"review 1 for product id 2",
-        "productId":2
+      "id": 4,
+      "rating": 5,
+      "comment": "review 1 for product id 2",
+      "productId": 2
     },
     {
-        "id":5,
-        "rating":3,
-        "comment":"review 1 for product id 3",
-        "productId":3
+      "id": 5,
+      "rating": 3,
+      "comment": "review 1 for product id 3",
+      "productId": 3
     }
-    ]
+  ]
 }

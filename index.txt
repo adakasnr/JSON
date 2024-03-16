@@ -13,3 +13,26 @@ if we need perticular array, for that after array name enter / and id number(htt
 Filter-
 http://localhost:3000/reviews?rating=4
 after enytering the array we have type (?)then key (rating) then (=) and value to filter same reviews
+
+Sorting-
+http://localhost:3000/reviews?_sort=rating  it gives the result in assending order
+
+Operators-
+used to filter based on specific requirment like range
+
+Full text search
+http://localhost:3000/products?q=furniture
+
+Relationships
+http://localhost:3000/products?_embed=reviews
+it will display if there is any relationship b/w 2 two arrays by mixing around them
+if we want about 1st key then
+http://localhost:3000/products/1?_embed=reviews
+
+POST-
+for posting new data we need to install thunder clint extension then click on new request after that change the url with http then enter the new data in the JSON content. the will get posted in the website array
+
+PUT-to modify the data 
+as we did in the POST method change the POST into PUT 
+
+
